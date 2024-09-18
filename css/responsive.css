@@ -2032,8 +2032,20 @@
     background: #2d353d;
 } 
 .main-header-style2 {
-    background: #160f0a;    
+    background: #FFF;    
 } 
+.menu-right-content-style2 .outer-search-box-style1 .seach-toggle{
+    color: #000;
+    border: 1px solid;
+}
+
+.cart-box-style1 a{
+    border: 1px solid #000;
+}
+.cart-box-style1 a i::before{
+    color: #000;
+}
+
 .header-upper-midlle-style2 {
     background: transparent;
 }    
