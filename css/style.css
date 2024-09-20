@@ -2803,7 +2803,7 @@ select:focus {
 }
 
 .single-footer-widget.opening-hours-box {
-    margin-left: -50px;
+    /* margin-left: -50px; */
 }
 .single-footer-widget .opening-hours{
     position: relative;
@@ -2942,7 +2942,8 @@ select:focus {
     display: block;
     /* width: 75%; */
     width: 80%;
-    background: rgb(111, 108, 105);
+    background: rgba(58, 58, 58, 0.784);
+    backdrop-filter: blur(1px);
 }
 .header-upper-midlle-style2 .nav-outer{
     position: relative;
@@ -3367,7 +3368,7 @@ select:focus {
     display: block;
     z-index: 1;
 }
-.about-style1-left-content .img-box:before{
+/* .about-style1-left-content .img-box:before{
     position: absolute;
     top: 150px;
     left: 0;
@@ -3379,7 +3380,7 @@ select:focus {
     background: #d2d1d0;
     content: "";
     z-index: -1;
-}
+} */
 
 .about-style1-content{
     position: relative;
@@ -4113,7 +4114,7 @@ select:focus {
 
 .single-footer-widget.follow-sociallinks-widget-box {
     margin-top: 45px;
-    margin-left: -50px;
+    /* margin-left: -50px; */
 }
 .single-footer-widget.follow-sociallinks-widget-box .footer-social-links {
     margin-top: 3px;
@@ -5137,7 +5138,7 @@ select:focus {
     width: 100%;
     height: 100%;
     content: "";
-    background: rgba(73, 73, 73, 0.8);
+    background: rgba(0, 0, 0, 0.88);
     z-index: -1;
 }
 
@@ -5786,7 +5787,7 @@ select:focus {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.90);
+    background: rgba(0, 0, 0, 0.6);
     content: "";
 }
 
@@ -5842,7 +5843,7 @@ select:focus {
     padding-bottom: 37px;
 }
 .single-fact-counter-style2 .count-box h1{
-    color: #ffba00;
+    color: #ffffff;
     font-size: 60px;
     line-height: 50px;
     font-weight: 400;
@@ -6688,7 +6689,7 @@ select:focus {
     right: -375px;
 }
 .testimonial-box-holder.style2 .single-testimonial-style2 .top .img-box:before {
-    border: 2px solid #e4b33d;
+    border: 2px solid #FFF;
 }
 
 
@@ -6698,7 +6699,7 @@ select:focus {
 =====================================
 ***/
 .footer-style2-area.chnage-bg-style {
-    background: #2d353d;
+    background: #000;
 }
 .footer-style2-area.chnage-bg-style .layer-outer-bg {
     opacity: 1.0;

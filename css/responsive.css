@@ -52,7 +52,7 @@
     padding-top: 50px;
 }    
 .single-footer-widget.opening-hours-box {
-    margin-left: 315px;
+    /* margin-left: 315px; */
 }
 .single-footer-widget.follow-sociallinks-widget-box {
     margin-top: 45px;
@@ -379,13 +379,13 @@
     padding-top: 50px;
 }    
 .single-footer-widget.opening-hours-box {
-    margin-left: 235px;
+    /* margin-left: 235px; */
 }
 .single-footer-widget.follow-sociallinks-widget-box {
     margin-top: 45px;
-    margin-left: 235px;
+    /* margin-left: 235px; */
 }  
-    
+
   
     
     
@@ -1013,6 +1013,9 @@
 .single-footer-widget .contact-us p {
     margin: 0 0 19px;
 }    
+/* .single-footer-widget1{
+    padding: 0;
+} */
 .footer-bottom .outer-box {
     flex-direction: column;
     text-align: center;
